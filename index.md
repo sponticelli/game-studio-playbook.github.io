@@ -14,7 +14,7 @@ permalink: /
 A comprehensive workbook for game development teams - frameworks, checklists, and templates to build your own studio playbook.
 {: .fs-6 .fw-300 }
 
-[Get Started](0%20-%20HOW%20TO%20USE%20THIS%20WORKBOOK/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started](0%20-%20HOW%20TO%20USE%20THIS%20WORKBOOK.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/sponticelli/game-studio-playbook.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -27,13 +27,13 @@ The workbook is organized into seven blocks, each with two tracks:
 
 | Block | Focus | Track A | Track B |
 |:------|:------|:--------|:--------|
-| **1. Foundation** | Vision, business model, audience | [Project Foundation](1A%20-%20Project%20Foundation%20%26%20Vision%20Alignment/) | [Health Assessment](1B%20-%20Game%20Health%20Assessment%20and%20Realignment/) |
-| **2. Planning** | Milestones, estimation, calendars | [Planning & Milestones](2A%20-%20Planning%20and%20Milestones%20%28Greenfield%20Projects%29/) | [Live Ops Planning](2B%20-%20Live%20Ops%20Planning%20and%20Optimization%20%28Mature%20Games%29/) |
-| **3. Team** | Roles, communication, handoffs | [Team Structure](3A%20-%20Team%20Structure%20and%20Communication/) | [Live Ops Team](3B%20-%20Team%20Structure%20for%20Live%20Ops%20%28Mature%20Games%29/) |
-| **4. Production** | Definition of done, task management | [Daily Production](4A%20-%20Daily%20Production%20and%20Execution/) | [Operational Excellence](4B%20-%20Operational%20Excellence%20%28Mature%20Games%29/) |
-| **5. Scope** | Change control, feature triage | [Scope Management](5A%20-%20Scope%20and%20Change%20Management/) | [Scope (Mature)](5B%20-%20Scope%20and%20Change%20Management%20%28Mature%20Games%29/) |
-| **6. Risk** | Risk registers, incident response | [Risk & Problem Solving](6A%20-%20Risk%20and%20Problem%20Solving/) | [Risk (Live Games)](6B%20-%20Risk%20and%20Problem%20Solving%20%28Live%20Games%29/) |
-| **7. Launch** | Store optimization, events, growth | [Launch & Growth](7A%20-%20Launch%20and%20Growth/) | [Live Ops & Growth](7B%20-%20Launch%2C%20Live%20Ops%20and%20Growth%20%28Live%20Games%29/) |
+| **1. Foundation** | Vision, business model, audience | [Project Foundation](1A%20-%20Project%20Foundation%20%26%20Vision%20Alignment.html) | [Health Assessment](1B%20-%20Game%20Health%20Assessment%20and%20Realignment.html) |
+| **2. Planning** | Milestones, estimation, calendars | [Planning & Milestones](2A%20-%20Planning%20and%20Milestones%20%28Greenfield%20Projects%29.html) | [Live Ops Planning](2B%20-%20Live%20Ops%20Planning%20and%20Optimization%20%28Mature%20Games%29.html) |
+| **3. Team** | Roles, communication, handoffs | [Team Structure](3A%20-%20Team%20Structure%20and%20Communication.html) | [Live Ops Team](3B%20-%20Team%20Structure%20for%20Live%20Ops%20%28Mature%20Games%29.html) |
+| **4. Production** | Definition of done, task management | [Daily Production](4A%20-%20Daily%20Production%20and%20Execution.html) | [Operational Excellence](4B%20-%20Operational%20Excellence%20%28Mature%20Games%29.html) |
+| **5. Scope** | Change control, feature triage | [Scope Management](5A%20-%20Scope%20and%20Change%20Management.html) | [Scope (Mature)](5B%20-%20Scope%20and%20Change%20Management%20%28Mature%20Games%29.html) |
+| **6. Risk** | Risk registers, incident response | [Risk & Problem Solving](6A%20-%20Risk%20and%20Problem%20Solving.html) | [Risk (Live Games)](6B%20-%20Risk%20and%20Problem%20Solving%20%28Live%20Games%29.html) |
+| **7. Launch** | Store optimization, events, growth | [Launch & Growth](7A%20-%20Launch%20and%20Growth.html) | [Live Ops & Growth](7B%20-%20Launch%2C%20Live%20Ops%20and%20Growth%20%28Live%20Games%29.html) |
 
 ---
 
