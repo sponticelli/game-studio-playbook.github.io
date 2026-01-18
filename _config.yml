@@ -1,0 +1,85 @@
+# Game Studio Playbook - Jekyll Configuration
+# GitHub Pages site configuration
+
+# Site Settings
+title: Game Studio Playbook
+description: A comprehensive workbook for game development teams - frameworks, checklists, and templates to build your own studio playbook.
+url: "https://sponticelli.github.io"
+baseurl: "/game-studio-playbook.github.io"
+
+# Author
+author:
+  name: Sandro Ponticelli
+  url: https://www.linkedin.com/in/sandroponticelli/
+
+# Build Settings
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Markdown Processor
+markdown: kramdown
+kramdown:
+  input: GFM                     # GitHub Flavored Markdown
+  hard_wrap: false               # Don't convert newlines to <br>
+  auto_ids: true                 # Auto-generate header IDs
+  syntax_highlighter: rouge      # Code syntax highlighting
+  syntax_highlighter_opts:
+    default_lang: plaintext
+    guess_lang: true
+  toc_levels: "1..3"             # Table of contents depth
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Syntax Highlighting
+highlighter: rouge
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-relative-links
+
+# Relative Links Plugin
+relative_links:
+  enabled: true
+  collections: true
+
+# Permalink Structure
+permalink: pretty
+
+# File Handling
+include:
+  - _pages
+  - "*.md"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
+  - LICENSE
+
+# Default Front Matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# GitHub Metadata
+repository: sponticelli/game-studio-playbook.github.io
+
+# SEO and Social
+twitter:
+  card: summary
+social:
+  name: Sandro Ponticelli
+  links:
+    - https://www.linkedin.com/in/sandroponticelli/
+    - https://github.com/sponticelli
+
+# Timezone
+timezone: Europe/Rome
